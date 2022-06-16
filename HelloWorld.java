@@ -3,6 +3,8 @@ public class HelloWorld{
       System.out.println("Hello World!!!");
       System.out.println("Welcome to Git Hub");
       System.out.println("Thank you");
+        
+      System.out.println("End of the class");  
     }
   
 }  
